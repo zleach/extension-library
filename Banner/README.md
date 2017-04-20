@@ -12,4 +12,4 @@ Provides a top-level banner.
 * CTA link
 * Banner background color
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Add to Optimizely](http://i.imgur.com/Mlpdkti.jpg)](https://app.optimizely.com/deploy)
